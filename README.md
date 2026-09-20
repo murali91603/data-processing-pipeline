@@ -1,4 +1,4 @@
-# Data Processing Pipeline
+# Python Data Processing Pipeline
 
 ## Project Overview
 
@@ -25,19 +25,28 @@ A Python-based data processing pipeline that reads raw data, cleans and transfor
 - Requests
 - JSON
 - Git & GitHub
-
 ## Project Workflow
 
 Raw Data → Load → Clean → Transform → Validate → Structured Output
 
-## Project Structure
+
+##  Project Structure
 
 ```text
 data-processing-pipeline/
 ├── config/
+│   └── config.json
 ├── data/
+│   ├── input.csv
+│   ├── input.json
+│   └── output.csv
 ├── logs/
+│   └── pipeline.log
 ├── src/
+│   ├── loader.py
+│   ├── cleaner.py
+│   ├── transformer.py
+│   └── main.py
 ├── .gitignore
 ├── requirements.txt
 └── README.md
