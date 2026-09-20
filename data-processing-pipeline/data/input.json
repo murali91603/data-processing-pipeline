@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Murali",
+    "age": 21,
+    "salary": 35000,
+    "department": "IT"
+  },
+  {
+    "id": 2,
+    "name": "Ravi",
+    "age": null,
+    "salary": 45000,
+    "department": "IT"
+  },
+  {
+    "id": 3,
+    "name": "Priya",
+    "age": 22,
+    "salary": "invalid",
+    "department": "HR"
+  }
+]

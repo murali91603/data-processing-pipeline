@@ -1,0 +1,9 @@
+id,name,age,salary,department
+1,Murali,21,35000,IT
+2,Ravi,,45000,IT
+3,Priya,22,invalid,HR
+4,John,25,50000,
+5,Sneha,24,60000,Finance
+6,Murali,21,35000,IT
+7,Arjun,-5,70000,IT
+8,Divya,abc,55000,HR

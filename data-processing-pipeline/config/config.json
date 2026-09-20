@@ -1,0 +1,20 @@
+{
+    "input_format": "csv",
+    "input_file": "data/input.csv",
+    "output_file": "data/output.csv",
+    "log_file": "logs/pipeline.log",
+    "required_columns": [
+        "id",
+        "name",
+        "age",
+        "salary",
+        "department"
+    ],
+    "missing_values": {
+        "age": 0,
+        "salary": 0,
+        "department": "Unknown",
+        "name": "Unknown"
+    },
+    "salary_threshold": 50000
+}

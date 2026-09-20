@@ -1,0 +1,24 @@
+Sample log file.
+Run `python src/main.py` to generate/update the real pipeline log.
+2026-09-20 11:06:28,063 - INFO - ========== PIPELINE STARTED ==========
+2026-09-20 11:06:28,063 - INFO - Loading CSV file: /mnt/data/data-processing-pipeline/data/input.csv
+2026-09-20 11:06:28,068 - INFO - Loaded 8 records.
+2026-09-20 11:06:28,068 - INFO - Column names standardized.
+2026-09-20 11:06:28,077 - INFO - Rows before cleaning: 8
+2026-09-20 11:06:28,077 - INFO - Duplicate rows removed: 0
+2026-09-20 11:06:28,077 - INFO - Rows after cleaning: 8
+2026-09-20 11:06:28,081 - INFO - Data transformation completed.
+2026-09-20 11:06:28,081 - INFO - Output validation passed.
+2026-09-20 11:06:28,083 - INFO - Output saved to: /mnt/data/data-processing-pipeline/data/output.csv
+2026-09-20 11:06:28,083 - INFO - ========== PIPELINE COMPLETED ==========
+2026-09-20 16:46:04,143 - INFO - ========== PIPELINE STARTED ==========
+2026-09-20 16:46:04,143 - INFO - Loading CSV file: C:\Users\Murali krishna\OneDrive\문서\Desktop\data-processing-pipeline-ready\data-processing-pipeline\data\input.csv
+2026-09-20 16:46:04,150 - INFO - Loaded 8 records.
+2026-09-20 16:46:04,150 - INFO - Column names standardized.
+2026-09-20 16:46:04,160 - INFO - Rows before cleaning: 8
+2026-09-20 16:46:04,160 - INFO - Duplicate rows removed: 0
+2026-09-20 16:46:04,161 - INFO - Rows after cleaning: 8
+2026-09-20 16:46:04,164 - INFO - Data transformation completed.
+2026-09-20 16:46:04,165 - INFO - Output validation passed.
+2026-09-20 16:46:04,171 - INFO - Output saved to: C:\Users\Murali krishna\OneDrive\문서\Desktop\data-processing-pipeline-ready\data-processing-pipeline\data\output.csv
+2026-09-20 16:46:04,171 - INFO - ========== PIPELINE COMPLETED ==========

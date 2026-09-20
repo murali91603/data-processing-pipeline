@@ -1,0 +1,9 @@
+id,name,age,age_group,salary,salary_category,department
+1,Murali,21,18-25,35000.0,Low,IT
+2,Ravi,0,Unknown,45000.0,Low,IT
+3,Priya,22,18-25,0.0,Low,HR
+4,John,25,18-25,50000.0,High,Unknown
+5,Sneha,24,18-25,60000.0,High,Finance
+6,Murali,21,18-25,35000.0,Low,IT
+7,Arjun,0,Unknown,70000.0,High,IT
+8,Divya,0,Unknown,55000.0,High,HR
