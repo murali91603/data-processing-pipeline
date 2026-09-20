@@ -50,25 +50,5 @@ data-processing-pipeline/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
-Run the Project
-Bash
-
-pip install -r requirements.txt
-python src/main.py
- Output
-Processed data is generated at:
-
-data/output.csv
-
-Execution logs are stored at:
-
-logs/pipeline.log
-
- Task Objective
-This project fulfills Task 2 – Data Processing Pipeline by implementing data ingestion, cleaning, transformation, edge-case handling, logging, configuration management, and structured output generation.
-
- Author
-Murali Krishna
-B.Tech Computer Science Engineering
 
 
